@@ -1,9 +1,7 @@
-# Experimental-Print-Studio
+# <code style="color : purple"> Experimental</code><code style="color : orange">-Print</code><code style="color : yellowgreen">-Studio</code> 
 
 Welcome to the IDM Experimental Print Studio!
-
-*Description( to be polished)*
-
+*Description (to be polished)*
 
 ### Lab hours
 
