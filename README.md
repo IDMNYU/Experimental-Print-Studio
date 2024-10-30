@@ -1,9 +1,10 @@
-# <code style="color : purple"> Experimental</code><code style="color : orange">-Print</code><code style="color : yellowgreen">-Studio</code> 
+# Experimental-Print-Studio
 
 Welcome to the IDM Experimental Print Studio!
 *Description (to be polished)*
 
 ### Lab hours
+-text in red
 
 Procedures for booking training 
 
