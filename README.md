@@ -4,7 +4,6 @@ Welcome to the IDM Experimental Print Studio!
 *Description (to be polished)*
 
 ### Lab hours
--text in red
 
 Procedures for booking training 
 
