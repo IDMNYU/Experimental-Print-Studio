@@ -140,14 +140,25 @@ Make sure the blue light for the “Print Cylinder Release Button” is on. If n
 * Hold ink drum by blue parts, place carefully place it on the floor or table
 <br><br>
 <div align="center">
- <img src="img/insert.png" alt="drum" width="500" al/>
+ <img src="img/insert.png" alt="drum" width="450" al/>
 </div>
 <br><br>
 * Open the container for the new ink and, holding the new drum by the blue parts, place it on the ink holder. Place old ink drum inside the hard case and put it away. Close ink drum and close the front door.
 
 ---
 
-### p5js.RISO library
+### p5.Riso library
+
+[p5 Riso](https://antiboredom.github.io/p5.riso/)
+
+
+p5.riso.js is a p5 library for riso printing. It means you can use p5 to create graphics and prepare the color layers for printing. p5.riso object extends the p5 graphics object so that all the graphics functions can be used from the library. 
+
+See [this](https://github.com/antiboredom/p5.riso/blob/master/tutorials/getting-started.md) getting started tutorial and the full example [code](https://editor.p5js.org/brain/sketches/GpuJH1Zur) here.
+
+See [this](https://github.com/antiboredom/p5.riso/blob/master/tutorials/color-separation.md) tutorial on simple color separation and full example [code](https://editor.p5js.org/brain/sketches/wLGAPKEMk) here.
+
+See the [reference](https://antiboredom.github.io/p5.riso/#ref) page and [example](https://antiboredom.github.io/p5.riso/#ex) page for more info on the functions and more examples.
 
 ---
 
