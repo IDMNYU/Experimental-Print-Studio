@@ -20,8 +20,11 @@ It is a Riso SF 9450 printer. The manual for this machine is available [here](ht
 Currently we have seven different colors.
 
  i. Black 
-![](img/black.png)
-
+ 
+ <div align="center">
+ <img src="img/black.png" alt="Black" width="400" al/>
+ </div>
+ 
  ii. Blue 
 ![](img/blue.png)
  
