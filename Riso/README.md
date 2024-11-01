@@ -22,17 +22,26 @@ Currently we have seven different colors.
  i. Black 
  
  <div align="center">
- <img src="img/black.png" alt="Black" width="1000" al/>
+ <img src="img/black.png" alt="Black" width="700" al/>
  </div>
  
  ii. Blue 
-![](img/blue.png)
+
+ <div align="center">
+ <img src="img/blue.png" alt="Black" width="700" al/>
+ </div>
  
  iii. Green 
-![](img/green.png)
+ 
+  <div align="center">
+ <img src="img/green.png" alt="Black" width="700" al/>
+ </div>
  
  iv. Yellow 
-![](img/yellow.png)
+
+  <div align="center">
+ <img src="img/yellow.png" alt="Black" width="700" al/>
+ </div>
  
  v. Fluorescent Pink 
  ![](img/fluorescent-pink.png)
