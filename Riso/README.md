@@ -39,18 +39,27 @@ Currently we have seven different colors.
  
  iv. Yellow 
 
-  <div align="center">
+ <div align="center">
  <img src="img/yellow.png" alt="Black" width="700" al/>
  </div>
  
  v. Fluorescent Pink 
- ![](img/fluorescent-pink.png)
+
+ <div align="center">
+ <img src="img/fluorescent-pink.png" alt="Black" width="700" al/>
+ </div>
  
  vi. Fluorescent Orange 
-![](img/fluorescent-orange.png)
+ 
+ <div align="center">
+ <img src="img/fluorescent-orange.png" alt="Black" width="700" al/>
+ </div>
 
  vii. Red
-  ![](img/red.png)
+
+ <div align="center">
+ <img src="img/red.png" alt="Black" width="700" al/>
+ </div>
   
   
 color charts
