@@ -10,10 +10,9 @@ The RISO in the lab is a single drum, only printing one color at a time. To get 
 Meet Frida, the IDM Print Lab’s Risograph!
 <br><br>
  <div align="center">
- <img src="img/FRIDA.jpg" alt="FRIDA" width="700" al/>
+ <img src="img/FRIDA.jpg" alt="FRIDA" width="900" al/>
  </div>
 <br><br> 
-
 **Machine**
 
 It is a Riso SF 9450 printer. The manual for this machine is available [here](https://www.manualslib.com/products/Riso-Sf-9450-8854119.html). 
