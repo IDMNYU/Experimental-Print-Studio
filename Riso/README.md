@@ -110,6 +110,7 @@ Some examples of good paper types are: vellum, offset, and Hi-Bulk. Newsprints, 
 Riso Inks may smudge after the prints have dried (technically, the ink never really sets).  
 For more detailed information on paper types for Riso click [here](https://www.stencil.wiki/paper-choosing-ideal-stocks-riso).
 
+---
 
 ### Loading ink
 
@@ -126,8 +127,17 @@ Make sure the blue light for the “Print Cylinder Release Button” is on. If n
  </div>
  
   <div align="center">
- <img src="img/drum.png" alt="drum" width="400" al/>
+ <img src="img/drum.png" alt="drum" width="500" al/>
  </div>
+ 
+   <div align="center">
+ <img src="img/bluelight.png" alt="drum" width="400" al/>
+ </div>
+ 
+* Pull the blue handle of the ink drum
+* Hold ink drum by blue parts, place carefully on the floor
+* Open container for the other ink and, holding the new drum by the blue parts, place it on the machine. Place old ink drum inside the hard case and put it away. Close ink drum and close machine door.
+
 
 
 
