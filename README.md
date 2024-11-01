@@ -33,4 +33,14 @@ eltonkwok@nyu.edu
 
 [Plotter](./Plotter/README.md)
 
+[Scanner](./Scanner/README.md)
+
+[Typewriter](./Typewriter/README.md)
+
+[Paper Cutter](./Cutter/README.md)
+
+[General Zine Making Equipment](./General_Zine_Making_Equipment/README.md)
+
+
+
 
