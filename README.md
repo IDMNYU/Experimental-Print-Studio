@@ -25,6 +25,6 @@ eltonkwok@nyu.edu
 
 ## Links
 
-[Riso](./Riso/readme.md)
+[Riso](./Riso/README.md)
 
-[Plotter](./Plotter/readme.md)
+[Plotter](./Plotter/README.md)
