@@ -13,6 +13,7 @@ Meet Frida, the IDM Print Lab’s Risograph!
  <img src="img/FRIDA.jpg" alt="FRIDA" width="900" al/>
  </div>
 
+
 **Machine**
 
 It is a Riso SF 9450 printer. The manual for this machine is available [here](https://www.manualslib.com/products/Riso-Sf-9450-8854119.html). 
