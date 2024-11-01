@@ -140,12 +140,18 @@ Make sure the blue light for the “Print Cylinder Release Button” is on. If n
 * Hold ink drum by blue parts, place carefully place it on the floor or table
 <br><br>
 <div align="center">
- <img src="img/insert.png" alt="drum" width="400" al/>
+ <img src="img/insert.png" alt="drum" width="500" al/>
 </div>
-
+<br><br>
 * Open the container for the new ink and, holding the new drum by the blue parts, place it on the ink holder. Place old ink drum inside the hard case and put it away. Close ink drum and close the front door.
 
+---
 
+### p5js.RISO library
+
+---
+
+### Troubleshooting
 
 
 
