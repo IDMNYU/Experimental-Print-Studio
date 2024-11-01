@@ -1,6 +1,7 @@
 # Experimental-Print-Studio
 
 Welcome to the IDM Experimental Print Studio!
+
 *Description (to be polished)*
 
 ### Lab hours
