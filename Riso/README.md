@@ -66,7 +66,9 @@ Currently we have seven different colors.
   
 color charts
 
-![](img/riso_color_chartSmall.jpg)
+ <div align="center">
+ <img src="img/riso_color_chartSmall.jpg" alt="Black" width="700" al/>
+ </div>
 
 ---
 
