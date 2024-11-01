@@ -9,7 +9,10 @@ The RISO in the lab is a single drum, only printing one color at a time. To get 
 
 Meet Frida, the IDM Print Lab’s Risograph!
 
-![Frida](img/FRIDA.jpg)
+
+ <div align="center">
+ <img src="img/FRIDA.jpg" alt="FRIDA" width="700" al/>
+ </div>
 <br><br> 
 
 **Machine**
@@ -29,37 +32,37 @@ Currently we have seven different colors.
  ii. Blue 
 
  <div align="center">
- <img src="img/blue.png" alt="Black" width="700" al/>
+ <img src="img/blue.png" alt="Blue " width="700" al/>
  </div>
  
  iii. Green 
  
   <div align="center">
- <img src="img/green.png" alt="Black" width="700" al/>
+ <img src="img/green.png" alt="Green " width="700" al/>
  </div>
  
  iv. Yellow 
 
  <div align="center">
- <img src="img/yellow.png" alt="Black" width="700" al/>
+ <img src="img/yellow.png" alt="Yellow " width="700" al/>
  </div>
  
  v. Fluorescent Pink 
 
  <div align="center">
- <img src="img/fluorescent-pink.png" alt="Black" width="700" al/>
+ <img src="img/fluorescent-pink.png" alt="pink" width="700" al/>
  </div>
  
  vi. Fluorescent Orange 
  
  <div align="center">
- <img src="img/fluorescent-orange.png" alt="Black" width="700" al/>
+ <img src="img/fluorescent-orange.png" alt="orange" width="700" al/>
  </div>
 
  vii. Red
 
  <div align="center">
- <img src="img/red.png" alt="Black" width="700" al/>
+ <img src="img/red.png" alt="red" width="700" al/>
  </div>
   
 <br><br>   
@@ -67,7 +70,7 @@ Currently we have seven different colors.
 color charts
 
  <div align="center">
- <img src="img/riso_color_chartSmall.jpg" alt="Black" width="700" al/>
+ <img src="img/riso_color_chartSmall.jpg" alt="chart" width="700" al/>
  </div>
 
 ---
