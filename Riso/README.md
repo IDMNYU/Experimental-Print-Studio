@@ -92,7 +92,7 @@ This means the maximum printable area is approximately 10.5″ x 16.5″ on a ta
 As a rule of thumb, include a margin of 0.5 inch to the image size for cutting. For letter, change image size to 8 x 10.5 in.  For tabloid, change image size to 10.5 x 16.5 in. 
 
 The Riso can print on the custom paper sizes below. 
-
+<br><br>  
  <div align="center">
  <img src="img/in_table.png" alt="paper_size_inches" width="700" al/>
  </div>
