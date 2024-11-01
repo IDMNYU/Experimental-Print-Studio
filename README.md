@@ -25,6 +25,8 @@ The Studio is located in room 351 on the 3rd floor of 370 Jay Street
 
 eltonkwok@nyu.edu
 
+---
+
 ## Links
 
 [Riso](./Riso/README.md)
