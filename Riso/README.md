@@ -5,6 +5,7 @@
 The Risograph is a stencil duplicator. Think of it as a cross between screen printing and photocopying. The RISO prints one color at a time in bright, vibrant colors. It is ideal for posters, graphic prints, zines, comics, and other graphic arts. 
 The RISO in the lab is a single drum, only printing one color at a time. To get a sense of how the RISO works watch this [video](https://youtu.be/ofIh4EtGVno?si=sjgOvS4qsWB36E5z). 
 
+<br><br> 
 ### Equipment
 
 Meet Frida, the IDM Print Lab’s Risograph!
@@ -12,7 +13,7 @@ Meet Frida, the IDM Print Lab’s Risograph!
 <br><br> 
 
  <div align="center">
- <img src="img/FRIDA.jpg" alt="Black" width="900" al/>
+ <img src="img/FRIDA.jpg" alt="Black" width="1000" al/>
  </div>
 
 <br><br> 
@@ -67,6 +68,7 @@ Currently we have seven different colors.
  <img src="img/red.png" alt="Black" width="700" al/>
  </div>
   
+<br><br>   
   
 color charts
 
