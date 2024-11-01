@@ -39,7 +39,7 @@ eltonkwok@nyu.edu
 
 [Paper Cutter](./Cutter/README.md)
 
-[General Zine Making Equipment](./General_Zine_Making_Equipment/README.md)
+[General Zine Making Equipment](./General Zine Making Equipment/README.md)
 
 
 
