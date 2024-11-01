@@ -22,7 +22,7 @@ Currently we have seven different colors.
  i. Black 
  
  <div align="center">
- <img src="img/black.png" alt="Black" width="400" al/>
+ <img src="img/black.png" alt="Black" width="1000" al/>
  </div>
  
  ii. Blue 
