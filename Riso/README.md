@@ -10,7 +10,7 @@ The RISO in the lab is a single drum, only printing one color at a time. To get 
 Meet Frida, the IDM Print Lab’s Risograph!
 
  <div align="center">
- <img src="img/FRIDA.jpg" alt="Black" width="1000" al/>
+ <img src="img/FRIDA.jpg" alt="Black" width="1100" al/>
  </div>
 
 <br><br> 
@@ -93,8 +93,14 @@ As a rule of thumb, include a margin of 0.5 inch to the image size for cutting. 
 
 The Riso can print on the custom paper sizes below. 
 
-![](img/in_table.png)
-![](img/mm_table.png)
+ <div align="center">
+ <img src="img/in_table.png" alt="paper_size_inches" width="700" al/>
+ </div>
+ 
+  <div align="center">
+ <img src="img/mm_table.png" alt="paper_size_mm" width="700" al/>
+ </div>
+
 
 ---
 
