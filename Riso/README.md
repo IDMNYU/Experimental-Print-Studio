@@ -1,4 +1,4 @@
-#A Guide to Riso Printing
+# A Guide to Riso Printing
 ### Equipment
 
 Meet Frida, the IDM Print Lab’s Risograph!
