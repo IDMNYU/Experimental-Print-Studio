@@ -91,11 +91,11 @@ As a rule of thumb, include a margin of 0.5 inch to the image size for cutting. 
 The Riso can print on the custom paper sizes below. 
 <br><br>  
  <div align="center">
- <img src="img/in_table.png" alt="paper_size_inches" width="700" al/>
+ <img src="img/in_table.png" alt="paper_size_inches" width="500" al/>
  </div>
  
   <div align="center">
- <img src="img/mm_table.png" alt="paper_size_mm" width="700" al/>
+ <img src="img/mm_table.png" alt="paper_size_mm" width="500" al/>
  </div>
 
 
@@ -110,6 +110,24 @@ Some examples of good paper types are: vellum, offset, and Hi-Bulk. Newsprints, 
 Riso Inks may smudge after the prints have dried (technically, the ink never really sets).  
 For more detailed information on paper types for Riso click [here](https://www.stencil.wiki/paper-choosing-ideal-stocks-riso).
 
+
+### Loading ink
+
+The [video](https://youtu.be/Ng0gicaYC3E?si=A3dhHFABZAecFoTL) documents the basic printing process and was prepared by Andrew Lau. It shows the basic printing process - Loading ink cylinders and paper.
+
+* Turn machine on by moving the black switch on the right side of the machine.
+If the machine is on but seems to be asleep, press the Wake-Up button to the right of the keyboard
+
+* Open the door.
+Make sure the blue light for the “Print Cylinder Release Button” is on. If not, press that button
+
+ <div align="center">
+ <img src="img/turnon-1.png" alt="turn-on" width="400" al/>
+ </div>
+ 
+  <div align="center">
+ <img src="img/drum.png" alt="drum" width="400" al/>
+ </div>
 
 
 
