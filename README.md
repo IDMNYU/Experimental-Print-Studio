@@ -22,3 +22,9 @@ To book [lab hours or training](https://calendar.google.com/calendar/u/0/appoint
 The Studio is located in room 351 on the 3rd floor of 370 Jay Street
 ### Contact
 eltonkwok@nyu.edu
+
+## Links
+
+[Riso](./Riso/readme.md)
+
+[Plotter](./Plotter/readme.md)
