@@ -15,11 +15,11 @@ Meet Frida, the IDM Print Lab’s Risograph!
 
 <br><br> 
 
-* Machine
+**Machine**
 
 It is a Riso SF 9450 printer. The manual for this machine is available [here](https://www.manualslib.com/products/Riso-Sf-9450-8854119.html). 
 
-* Ink Color
+**Ink Color**
 
 Currently we have seven different colors.
 
