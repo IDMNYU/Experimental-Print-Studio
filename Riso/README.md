@@ -125,20 +125,25 @@ If the machine is on but seems to be asleep, press the Wake-Up button to the rig
 Make sure the blue light for the “Print Cylinder Release Button” is on. If not, press that button
 
  <div align="center">
- <img src="img/turnon-1.png" alt="turn-on" width="400" al/>
+  <img src="img/turnon-1.png" alt="turn-on" width="400" al/>
  </div>
  
-  <div align="center">
- <img src="img/drum.png" alt="drum" width="500" al/>
+ <div align="center">
+  <img src="img/drum.png" alt="drum" width="500" al/>
  </div>
  
-   <div align="center">
+<div align="center">
  <img src="img/bluelight.png" alt="drum" width="400" al/>
- </div>
+</div>
  
 * Pull the blue handle of the ink drum
-* Hold ink drum by blue parts, place carefully on the floor
-* Open container for the other ink and, holding the new drum by the blue parts, place it on the machine. Place old ink drum inside the hard case and put it away. Close ink drum and close machine door.
+* Hold ink drum by blue parts, place carefully place it on the floor or table
+<br><br>
+<div align="center">
+ <img src="img/insert.png" alt="drum" width="400" al/>
+</div>
+
+* Open the container for the new ink and, holding the new drum by the blue parts, place it on the ink holder. Place old ink drum inside the hard case and put it away. Close ink drum and close the front door.
 
 
 
