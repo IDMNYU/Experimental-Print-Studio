@@ -9,7 +9,13 @@ The RISO in the lab is a single drum, only printing one color at a time. To get 
 
 Meet Frida, the IDM Print Lab’s Risograph!
 
-![](img/FRIDA.jpg)
+<br><br> 
+
+ <div align="center">
+ <img src="img/FRIDA.jpg" alt="Black" width="900" al/>
+ </div>
+
+<br><br> 
 
 * Machine
 
