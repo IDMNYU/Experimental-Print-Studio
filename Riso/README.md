@@ -193,6 +193,7 @@ When multiple paper are fed, turn the dial(2) clockwise
 <br><br>
 * Roller smudges
 
+
 Print light colors first to reduce smudges. If you don’t let your prints dry, when you refeed the paper through ink will stick to the rollers. Let your prints dry for 10 minutes before each new color. 
 
 To clean the rollers, lower the paper tray, use a wet wipe and clean the two rubber rollers by rotating the wheel and cleaning while you go. Dry with a paper towel and try again. This mark can also be reduced by printing 10 or more prints. You can also clean it with a pencil eraser.
@@ -202,6 +203,7 @@ To clean the rollers, lower the paper tray, use a wet wipe and clean the two rub
 </div>
 <br><br>
 * Registration errors
+
 
 Registration errors are when two or more color layers don't perfectly line up. They can happen in both vertical and horizontal directions. See the images below. 
 
@@ -216,7 +218,17 @@ To move the blue layer to the left, adjust the plate to the right by turning the
  <img src="img/print2.jpg" alt="drum" width="400" al/>
 </div>
 
+To correct horizontal registration errors, adjust the position of the paper feed tray using the blue wheel as shown below.
+<br><br>
+<div align="center">
+ <img src="img/dial.jpg" alt="drum" width="400" al/>
+</div>
 
+To correct vertical registration errors, use the printer adjustment buttons shown below to shift the color layer being printed until it is better aligned with the preexisting layer.
+
+<div align="center">
+ <img src="img/button.jpg" alt="drum" width="400" al/>
+</div>
 
 
 
