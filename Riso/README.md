@@ -232,5 +232,21 @@ To correct vertical registration errors, use the printer adjustment buttons show
 <br><br>
 Note, do several extra prints as it often takes a few goes to get these adjustments exact.
 
+You can also place registration marks (trapping) in the corners outside your print to verify whether everything is properly aligned.
+
+<div align="center">
+ <img src="img/trapping.png" alt="drum" width="400" al/>
+</div>
+<br><br>
+* Refilling ink colors
+
+See the first minute of this [video](https://youtu.be/P1xGhdyRiG0?si=_P09cxBmMjojH8lz)
+
+* Refilling master roll
+
+See the first minute of this [video](https://youtu.be/P1xGhdyRiG0?si=_P09cxBmMjojH8lz)
+
+
+
 
 
