@@ -230,5 +230,7 @@ To correct vertical registration errors, use the printer adjustment buttons show
  <img src="img/button.jpg" alt="drum" width="400" al/>
 </div>
 
+Note, do several extra prints as it often takes a few goes to get these adjustments exact.
+
 
 
