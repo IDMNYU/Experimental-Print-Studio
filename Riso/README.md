@@ -238,6 +238,7 @@ You can also place registration marks (trapping) in the corners outside your pri
  <img src="img/trapping.png" alt="drum" width="400" al/>
 </div>
 <br><br>
+
 * Refilling ink colors
 
 See the first minute of this [video](https://youtu.be/P1xGhdyRiG0?si=_P09cxBmMjojH8lz)
