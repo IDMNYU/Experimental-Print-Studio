@@ -183,9 +183,40 @@ In addition, paper may be stuck to the master on the ink drum. Check the drum by
 <div align="center">
  <img src="img/paper_feed_dial.jpg" alt="drum" width="400" al/>
 </div>
-
+<br><br>
+<div align="center">
 When papers are skipped, turn the dial(2) counterwise
- 
+</div>
+<div align="center">
 When multiple paper are fed, turn the dial(2) clockwise
+</div>
+
+* Roller smudges
+
+Print light colors first to reduce smudges. If you don’t let your prints dry, when you refeed the paper through ink will stick to the rollers. Let your prints dry for 10 minutes before each new color. 
+
+To clean the rollers, lower the paper tray, use a wet wipe and clean the two rubber rollers by rotating the wheel and cleaning while you go. Dry with a paper towel and try again. This mark can also be reduced by printing 10 or more prints. You can also clean it with a pencil eraser.
+<br><br>
+<div align="center">
+ <img src="img/roller-mark.jpg" alt="drum" width="400" al/>
+</div>
+
+* Registration errors
+
+Registration errors are when two or more color layers don't perfectly line up. They can happen in both vertical and horizontal directions. See the images below. 
+
+Vertical and horizontal registration errors between the blue and orange layers.
+To move the blue layer to the left, adjust the plate to the right by turning the blue wheel backward as shown below. This is because the paper's path is relative to the ink screen as it passes under the screen.
+<br><br>
+<div align="center">
+ <img src="img/print1.jpg" alt="drum" width="400" al/>
+</div>
+<br><br>
+<div align="center">
+ <img src="img/print2.jpg" alt="drum" width="400" al/>
+</div>
+
+
+
 
 
