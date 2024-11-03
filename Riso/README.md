@@ -190,7 +190,7 @@ When papers are skipped, turn the dial(2) counterwise
 <div align="center">
 When multiple paper are fed, turn the dial(2) clockwise
 </div>
-
+<br><br>
 * Roller smudges
 
 Print light colors first to reduce smudges. If you don’t let your prints dry, when you refeed the paper through ink will stick to the rollers. Let your prints dry for 10 minutes before each new color. 
@@ -200,7 +200,7 @@ To clean the rollers, lower the paper tray, use a wet wipe and clean the two rub
 <div align="center">
  <img src="img/roller-mark.jpg" alt="drum" width="400" al/>
 </div>
-
+<br><br>
 * Registration errors
 
 Registration errors are when two or more color layers don't perfectly line up. They can happen in both vertical and horizontal directions. See the images below. 
