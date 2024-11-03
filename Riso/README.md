@@ -169,3 +169,23 @@ See the [reference](https://antiboredom.github.io/p5.riso/#ref) page and [exampl
 
 
 
+* Paper jam
+
+The RISO can't print 100% ink density across 100% of the paper. Large areas of 100% ink density can cause jams (surface area over 40% of the paper at 100% in density will jam). 
+To prevent jamming, it's best to design with your darkest color at 85% opacity.
+
+* Paper feed adjustment dial
+
+Paper jams often occur because of the paper weight. Lower the feed paper tray by pressing the button (marked with a 1. below). Adjust the dial according to your paper thickness (marked with a 2 below).
+
+In addition, paper may be stuck to the master on the ink drum. Check the drum by pulling it out as if the color is being changed and peel the paper off the drum.
+
+<div align="center">
+ <img src="img/paper_feed_dial.jpg" alt="drum" width="400" al/>
+</div>
+
+When papers are skipped, turn the dial(2) counterwise
+ 
+When multiple paper are fed, turn the dial(2) clockwise
+
+
