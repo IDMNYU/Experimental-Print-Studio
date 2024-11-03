@@ -218,11 +218,13 @@ To move the blue layer to the left, adjust the plate to the right by turning the
  <img src="img/print2.jpg" alt="drum" width="400" al/>
 </div>
 
+
 To correct horizontal registration errors, adjust the position of the paper feed tray using the blue wheel as shown below.
 <br><br>
 <div align="center">
  <img src="img/dial.jpg" alt="drum" width="400" al/>
 </div>
+
 
 To correct vertical registration errors, use the printer adjustment buttons shown below to shift the color layer being printed until it is better aligned with the preexisting layer.
 
