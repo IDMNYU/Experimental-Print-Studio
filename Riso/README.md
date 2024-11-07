@@ -1,6 +1,6 @@
 # A Guide to Riso Printing
-
-links
+<br><br> 
+##links
 
 [What is Risograph](#What-is-Risograph)
 
@@ -8,8 +8,20 @@ links
 
 [File preparation](#File-preparation)
 
+[Paper Size and Bleeding](#Paper-Size-and-Bleeding)
+
+[Paper Purchasing](#Paper-Purchasing)
+
+[Basic printing process](#Loading-ink)
+
+[p5.Riso library](#p5.Riso-library)
+
+[Troubleshooting](#Troubleshooting)
 
 
+
+<br><br> 
+<br><br> 
 
 ### What is Risograph
 
@@ -127,7 +139,7 @@ For more detailed information on paper types for Riso click [here](https://www.s
 
 ---
 
-### Loading ink
+### Basic Printing Process
 
 The [video](https://youtu.be/Ng0gicaYC3E?si=A3dhHFABZAecFoTL) documents the basic printing process and was prepared by Andrew Lau. It shows the basic printing process - Loading ink cylinders and paper.
 
