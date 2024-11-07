@@ -32,7 +32,15 @@ Add this script to your index html page
 
 In addition, change your P5 cloud version to 1.6.0 instead of the default 1.10.0 or other versions as shown above. Otherwise you may encounter errors in exporting SVG with this script
 
-Here’s an [example](https://zenozeng.github.io/p5.js-svg/examples/#exporting ) of the code you need to add to your js file in order to export
+Here’s an [example](https://zenozeng.github.io/p5.js-svg/examples/#exporting ) of the code you need to add to your js file in order to export.
+
+### Pen and paper size
+
+The machine supports a variety of pen types, including fountain pens, permanent markers.
+Check out this github page from [awesome-plotters](https://github.com/beardicus/awesome-plotters?tab=readme-ov-file#pens)for more suggestions on pens.
+
+
+
 
 
 ---
