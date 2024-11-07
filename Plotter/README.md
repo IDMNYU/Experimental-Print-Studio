@@ -23,16 +23,21 @@
 ### Overview
 
 (picture) 
- 
+
+A plotter is a machine that produces vector graphics drawings. Plotters draw lines on paper using a pen, or in some applications, use a knife to cut a material like vinyl or leather.
+
 IDM has two AxiDraw V3 machines
 
 The AxiDraw V3 is a simple, modern, precise, and versatile pen plotter, capable of writing or drawing on almost any flat surface. 
 
+Check out this great [introduction article](https://mrmrs.cc/writing/pen-plotting-intro/) on Pen Plotters.
 
 
 ---
 
 ### Software Setup
+
+We are using a software called **Inkscape** to plot out SVG files. If you are not familiar with Python, the AxiDraw machine is also programmable through customized [Python scripts](https://axidraw.com/doc/py_api/#introduction).
 
 * Download [Inkscape](https://inkscape.org/release/inkscape-1.3.2/)
 
