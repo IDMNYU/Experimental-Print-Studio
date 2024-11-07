@@ -47,6 +47,8 @@ We are using a software called **Inkscape** to plot out SVG files. If you are no
 <div align="center">
  <img src="extension.png" alt="extension" width="700" al/>
  </div>
+ 
+[Axidraw extension walkthrough](https://youtu.be/r5mhw8-nrg0?si=DhAn5LHgwZ8u58uT)
 
 * Select Axidraw Model
   
@@ -204,3 +206,11 @@ By default, Plot optimization is disabled, and objects in the document will be p
  
 ---
 
+### Resources
+
+[Axidraw wiki](https://wiki.evilmadscientist.com/AxiDraw_User_Guide) 
+
+
+For more thorough javascript svg generation references, check out this [github](https://github.com/golanlevin/DrawingWithMachines/tree/main/generating_svg#generating-svgs-with-javascript-p5js) page
+
+[Awesome plotters](https://github.com/beardicus/awesome-plotters) (A curated list of code and resources for computer-controlled drawing machines and other visual art robots)
