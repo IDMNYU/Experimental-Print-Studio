@@ -1,6 +1,6 @@
 # A Guide to Riso Printing
 <br><br> 
-## links
+
 
 [What is Risograph](#What-is-Risograph)
 
