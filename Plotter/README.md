@@ -18,6 +18,8 @@
 
 [Troubleshooting](#Troubleshooting)
 
+[Resources](#Resources)
+
 <br><br>
 
 ### Overview
