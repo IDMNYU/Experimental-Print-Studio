@@ -42,6 +42,5 @@ eltonkwok@nyu.edu
 
 [General Zine Making Equipment](./General_Zine_Making_Equipment/README.md)
 
-[Lab Troubleshooting Notes](./Lab_Troubleshooting_Notes/README.md)
 
 
