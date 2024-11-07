@@ -49,6 +49,7 @@ We are using a software called **Inkscape** to plot out SVG files. If you are no
 <div align="center">
  <img src="extension.png" alt="extension" width="700" al/>
  </div>
+<br><br>
  
 [Axidraw extension walkthrough](https://youtu.be/r5mhw8-nrg0?si=DhAn5LHgwZ8u58uT)
 
