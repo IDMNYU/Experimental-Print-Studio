@@ -167,6 +167,8 @@ covers.
 
 Axidraw may pick up hidden lines in the file (e.g. a bounding box), and you can remove these lines in the option menu by checking the Hidden-line removal box.
 
+Alternatively, remove the background() in your p5 sketch
+
 <div align="center">
  <img src="t2.png" alt="t2" width="500" al/>
  </div>
@@ -186,6 +188,7 @@ By default, Plot optimization is disabled, and objects in the document will be p
  <img src="t4.jpg" alt="t4" width="400" al/>
 </div>
  <br><br>
+ 
 * Reconnect the USB cable
 <br><br>
 <div align="center">
