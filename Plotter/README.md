@@ -185,7 +185,7 @@ By default, Plot optimization is disabled, and objects in the document will be p
 <div align="center">
  <img src="t4.jpg" alt="t4" width="400" al/>
 </div>
- 
+ <br><br>
 * Reconnect the USB cable
 <br><br>
 <div align="center">
