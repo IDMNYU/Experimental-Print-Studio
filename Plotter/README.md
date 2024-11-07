@@ -85,7 +85,7 @@ Steps:
 
 2. Then connect Power and USB: Plug in the power adapter and connect the Axidraw to your computer via the USB cable.
 
-3. Clip in your pen, with height a little above the paper, roughly equal to the thickness of your NYU iD card.
+3. Clip in your pen, with height a little above the paper, roughly equal to the thickness of your NYU iD card (with case).
 <br><br>
 <div align="center">
 <img src="step3.png" alt="step3" width="500" al/>
@@ -98,6 +98,9 @@ Steps:
   <img src="step5.png" alt="step5" width="300" style="display: inline-block;"/>
 </div>
 <br><br>
+<div align="center">
+<img src="step6.png" alt="step6" width="400" al/>
+</div>
 
 5. Open your svg file. From the menu, select Extensions > AxiDraw > AxiDraw Control
 
