@@ -8,6 +8,8 @@
 
 [Pen and Paper Size](#Pen-and-Paper-Size)
 
+[Basic Plotting Process](#Basic-Plotting-Process)
+
 [Plotting Tips](#Plotting-Tips)
 
 [Vpype](#Vpype)
@@ -72,6 +74,21 @@ The machine supports a variety of pen types, including fountain pens, permanent 
 Check out this github page from [awesome-plotters](https://github.com/beardicus/awesome-plotters?tab=readme-ov-file#pens) for more suggestions on pens.
 
 Maximum Drawing Area：The XY travel (printable area) of the AxiDraw is just over US letter (8 1/2 × 11") and A4 (297 × 210 mm / 8.27 × 11.69 inches) paper sizes. To avoid grinding the motors in the machine, ensure you leave a ½ inch of bleed around the edge of your plot. This means your plot should be 7 1/2 x 10 inches in size.
+
+---
+
+### Basic Plotting Process
+
+Steps:
+
+1. Before connecting to power, manually move the Axidraw back to its origin if it's not already there. 
+
+2. Then connect Power and USB: Plug in the power adapter and connect the Axidraw to your computer via the USB cable.
+
+3. Clip in your pen, with height a little above the paper, roughly equal to the thickness of your NYU iD card.
+
+
+
 
 ---
 
