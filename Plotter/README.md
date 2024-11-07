@@ -110,14 +110,14 @@ covers.
 
 ### Troubleshooting
 
-1) When loading a new file, before starting to draw, change the document size (in document properties ) to inches.
+1. When loading a new file, before starting to draw, change the document size (in document properties ) to inches.
 
 <div align="center">
  <img src="t1.png" alt="t1" width="500" al/>
  </div>
 
 <br><br>
-2) Unwanted hidden lines
+2. Unwanted hidden lines
 
 Axidraw may pick up hidden lines in the file (e.g. a bounding box), and you can remove these lines in the option menu by checking the Hidden-line removal box.
 
@@ -126,7 +126,7 @@ Axidraw may pick up hidden lines in the file (e.g. a bounding box), and you can 
  </div>
 
 <br><br>
-3) Plot optimization (Default: Least; Only connect adjoining paths):
+3. Plot optimization (Default: Least; Only connect adjoining paths):
 This option affects the order of plotting, which can be altered to reduce pen-up
 travel time.
 
