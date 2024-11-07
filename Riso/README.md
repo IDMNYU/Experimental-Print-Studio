@@ -12,7 +12,7 @@
 
 [Paper Purchasing](#Paper-Purchasing)
 
-[Basic printing process](#Basic-printing-process)
+[Basic Printing Process](#Basic-printing-process)
 
 [p5.Riso library](#p5-Riso-library)
 
