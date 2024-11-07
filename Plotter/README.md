@@ -101,10 +101,21 @@ Steps:
 <div align="center">
 <img src="step6.png" alt="step6" width="400" al/>
 </div>
+<br><br>
 
 5. Open your svg file. From the menu, select Extensions > AxiDraw > AxiDraw Control
 
 6. In the Setup tab, use the Cycle pen down then up option. No need to change the default parameters. Click Apply.
+
+<br><br>
+<div align="center">
+<img src="cycle.png" alt="cycle" width="400" al/>
+</div>
+<br><br>
+
+7. Test and adjust the pen height, until the pen tip touches the paper.
+
+8. Using the Plot tab in AxiDraw Control, click Apply to plot the document.
 
 
 ---
