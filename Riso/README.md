@@ -12,9 +12,9 @@
 
 [Paper Purchasing](#Paper-Purchasing)
 
-[Basic printing process](#Loading-ink)
+[Basic printing process](#Basic-printing-process)
 
-[p5.Riso library](#p5.Riso-library)
+[p5.Riso library](#p5-Riso-library)
 
 [Troubleshooting](#Troubleshooting)
 
@@ -172,7 +172,7 @@ Make sure the blue light for the “Print Cylinder Release Button” is on. If n
 
 ---
 
-### p5.Riso library
+### p5 Riso library
 
 [p5 Riso](https://antiboredom.github.io/p5.riso/)
 
