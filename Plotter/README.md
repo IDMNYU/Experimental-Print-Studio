@@ -2,11 +2,21 @@
 
 [Overview](#Overview)
 
+[Software Setup](#Software-Setup)
+
 [SVG preparation](#SVG-preparation)
 
+[Pen and Paper Size](#Pen-and-Paper-Size)
 
+[Plotting Tips](#Plotting-Tips)
 
+[Vpype](#Vpype)
 
+[Safe Handling](#Safe-Handling)
+
+[Troubleshooting](#Troubleshooting)
+
+<br><br>
 
 ### Overview
 
@@ -26,7 +36,7 @@ The AxiDraw V3 is a simple, modern, precise, and versatile pen plotter, capable 
 
 
 * Install Inkscape [Extension](https://wiki.evilmadscientist.com/Axidraw_Software_Installation): After installing Inkscape, install the Axidraw extension. It will appear under the "Extensions" menu in Inkscape. You should see the AxiDraw Control option in the drop-down menu
-
+<br><br>
 <div align="center">
  <img src="extension.png" alt="extension" width="700" al/>
  </div>
@@ -65,7 +75,7 @@ Maximum Drawing Area：The XY travel (printable area) of the AxiDraw is just ove
 
 ---
 
-### Tips
+### Plotting Tips
 
 * Plotting against a stack of paper instead of a single sheet on a hard surface enhances the quality of the lines.
 
@@ -73,7 +83,7 @@ Maximum Drawing Area：The XY travel (printable area) of the AxiDraw is just ove
 
 ---
 
-### V-pype
+### Vpype
 
 * Using [vpype](https://github.com/abey79/vpype) to optimize your SVGs. See [install](https://github.com/golanlevin/DrawingWithMachines/blob/main/generating_svg/vpype_svg_prep/README.md) instructions prepared by Golan.
 
@@ -81,17 +91,17 @@ Maximum Drawing Area：The XY travel (printable area) of the AxiDraw is just ove
 
 ---
 
-### Safe handling of the AxiDraw
+### Safe Handling
 
-1). Lifting: Lift AxiDraw by the central strut of the base, or by the stepper motors
+1) Lifting: Lift AxiDraw by the central strut of the base, or by the stepper motors
 if necessary. Do not lift by the cables, cable guides, carriages, or pen holder. The
 AxiDraw SE/A3 has a handle milled into the back of the central strut, to provide
 an additional lifting point in the middle of the machine.
 
-2). Heat: Please note that the two stepper motors may get warm. This is normal,
+2) Heat: Please note that the two stepper motors may get warm. This is normal,
 but it is helpful to be aware of it. They should not get too hot to touch.
 
-3). Moving parts: AxiDraw has exposed moving parts. Keep fingers, hair, and oth-
+3) Moving parts: AxiDraw has exposed moving parts. Keep fingers, hair, and oth-
 er things that could get caught, crushed, or tangled safely away from the belt and
 the pinch points between the moving carriage, the pen holder, and the motor
 covers.
@@ -106,15 +116,16 @@ covers.
  <img src="t1.png" alt="t1" width="500" al/>
  </div>
 
-
-2)Unwanted hidden lines
+<br><br>
+2) Unwanted hidden lines
 
 Axidraw may pick up hidden lines in the file (e.g. a bounding box), and you can remove these lines in the option menu by checking the Hidden-line removal box.
 
 <div align="center">
  <img src="t2.png" alt="t2" width="500" al/>
  </div>
- 
+
+<br><br>
 3) Plot optimization (Default: Least; Only connect adjoining paths):
 This option affects the order of plotting, which can be altered to reduce pen-up
 travel time.
