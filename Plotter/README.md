@@ -155,14 +155,15 @@ covers.
 
 ### Troubleshooting
 
-1. When loading a new file, before starting to draw, change the document size (in document properties ) to inches.
+* When loading a new file, before starting to draw, change the document size (in document properties ) to inches.
 
 <div align="center">
  <img src="t1.png" alt="t1" width="500" al/>
- </div>
+</div>
 
 <br><br>
-2. Unwanted hidden lines
+
+* Unwanted hidden lines
 
 Axidraw may pick up hidden lines in the file (e.g. a bounding box), and you can remove these lines in the option menu by checking the Hidden-line removal box.
 
@@ -171,11 +172,27 @@ Axidraw may pick up hidden lines in the file (e.g. a bounding box), and you can 
  </div>
 
 <br><br>
-3. Plot optimization (Default: Least; Only connect adjoining paths):
+
+* Plot optimization (Default: Least; Only connect adjoining paths):
 This option affects the order of plotting, which can be altered to reduce pen-up
 travel time.
 
 By default, Plot optimization is disabled, and objects in the document will be plotted in the order given by the file. However if either “Basic” or “Full” is selected, then elements within the file will be reordered to reduce pen-up travel when you run a plot or plot preview from the Plot, Layers, or Resume tab. 
 
+
+* Power is loose/ not plugged in. Reconnect the power.
+<br><br>
+<div align="center">
+ <img src="t4.jpg" alt="t4" width="400" al/>
+</div>
+ 
+* Reconnect the USB cable
+<br><br>
+<div align="center">
+ <img src="t5.jpg" alt="t4" width="400" al/>
+</div>
+ 
+ 
+ 
 ---
 
