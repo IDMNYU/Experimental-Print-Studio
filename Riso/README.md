@@ -8,6 +8,8 @@
 
 [File preparation](#File-preparation)
 
+[Dithering](#Dithering)
+
 [Paper Size and Bleeding](#Paper-Size-and-Bleeding)
 
 [Paper Purchasing](#Paper-Purchasing)
@@ -104,6 +106,15 @@ Riso interprets grayscale images as density of inking. The printer will print ea
 **Dithering with the riso printer driver:**
 
 Once you have your contact sheets you can either print them from the Preview program on the lab computer as you would for any other printer, or you can print them from Photoshop using the Riso driver. Using Photoshop and the driver gives you more control over the way that the image is dithered. See this [guide](https://ameliagreenhall.com/printing-with-the-riso-printer-driver-for-mac/) on photoshop print and color settings.
+
+---
+
+### Dithering
+
+
+* Part 1: [the p5 bit](https://youtu.be/MsNXDioHMrc)
+
+* Part 2: [the photoshop bit](https://youtu.be/RzwPz8P3qgo)
 
 ---
 
