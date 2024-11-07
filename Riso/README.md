@@ -1,5 +1,16 @@
 # A Guide to Riso Printing
 
+links
+
+[What is Risograph](#What-is-Risograph)
+
+[Equipment](#Equipment)
+
+[File preparation](#File-preparation)
+
+
+
+
 ### What is Risograph
 
 The Risograph is a stencil duplicator. Think of it as a cross between screen printing and photocopying. The RISO prints one color at a time in bright, vibrant colors. It is ideal for posters, graphic prints, zines, comics, and other graphic arts. 
