@@ -86,8 +86,22 @@ Steps:
 2. Then connect Power and USB: Plug in the power adapter and connect the Axidraw to your computer via the USB cable.
 
 3. Clip in your pen, with height a little above the paper, roughly equal to the thickness of your NYU iD card.
+<br><br>
+<div align="center">
+<img src="step3.png" alt="step3" width="500" al/>
+</div>
+<br><br>
+4. Position your paper with its upper-right corner below the pen tip. Leave a few millimeters for bleeding to avoid the pen pushing the paper's edge up while drawing. AxiDraw is very sensitive to height. Make sure the paper is completely flat. Use tape to secure the corners of the paper.
+<br><br>
+<div align="center">
+  <img src="step4.png" alt="step4" width="300" style="display: inline-block; margin-right: 10px;"/>
+  <img src="step5.png" alt="step5" width="300" style="display: inline-block;"/>
+</div>
+<br><br>
 
+5. Open your svg file. From the menu, select Extensions > AxiDraw > AxiDraw Control
 
+6. In the Setup tab, use the Cycle pen down then up option. No need to change the default parameters. Click Apply.
 
 
 ---
