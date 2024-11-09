@@ -5,7 +5,7 @@
 
 [Configuration](#Configuration)
 
-[Operation Steps](#Operation-Steps)
+[Basic Operation Steps](#Basic-Operation-Steps)
 
 <br><br> 
 
@@ -48,6 +48,19 @@ Hardware Resolution: 1200dpi X 1200dpi
  </div>
 
 <br><br> 
+### **Basic Operation Steps**
+
+1. Make sure power cable(black cable) is plugged in correctly
+
+2. Make sure the gray cable is connected to the computer's main unit, not the monitor.
+
+3. Turn on the machine by pressing the power button
+
+4. Lift the cover and place the material for scanning in a proper orientation
+
+5. Close the cover 
+
+<br><br>
 
 ### **Software Configuration**
 
@@ -65,20 +78,6 @@ Hardware Resolution: 1200dpi X 1200dpi
 
 3. For example, if you scanned it on September 30 2024, the file name would start with “2024-09-30-16” followed by the time it was scanned
 
-
-<br><br> 
-
-### **Operation Steps**
-
-1. Make sure power cable(black cable) is plugged in correctly
-
-2. Make sure the gray cable is connected to the computer's main unit, not the monitor.
-
-3. Turn on machine by pressing the power button
-
-4. Lift the cover and place the material for scanning in a proper orientation
-
-5. Close the cover 
 
 <br><br> 
 
