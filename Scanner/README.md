@@ -114,3 +114,5 @@ Hardware Resolution: 1200dpi X 1200dpi
 * Make sure the Scanner is powered on.
 
 * Make sure you press ‘Scan’ and hold down the button for more than a second.
+
+* Make sure the side of the paper that needs to be scanned is facing down.
