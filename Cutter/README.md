@@ -69,3 +69,7 @@ jy3424@nyu.edu
 
 
 For additional guidance, please watch the video below
+
+[Tamerica GUILLO-MAX 17" Paper Stack Cutter](https://www.youtube.com/watch?v=bNAutPfUFBE)
+
+[Tamerica Guillo-Max Stack Cutter Demo](https://youtu.be/jX1fjq3PAws?si=fOVPCjcDMOzRPoCM)
