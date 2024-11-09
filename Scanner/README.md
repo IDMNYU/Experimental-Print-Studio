@@ -7,6 +7,8 @@
 
 [Basic Operation Steps](#Basic-Operation-Steps)
 
+[Software Configuration](#Software-Configuration)
+
 [Troubleshooting](#Troubleshooting)
 
 <br><br> 
@@ -65,7 +67,11 @@ Hardware Resolution: 1200dpi X 1200dpi
 <br><br>
 
 ### **Software Configuration**
-
+<br><br>
+<div align="center">
+<img src="icon.png" alt="icon" width="100" al/>
+</div>
+<br><br>
 * Click ‘OpticSlim 1180’ app on the left side of the screen (orange color icon)
 
 <br><br> 
@@ -77,6 +83,17 @@ Hardware Resolution: 1200dpi X 1200dpi
 * You can change the resolution and other settings like scan mode, page size, and etc. on the screen above 
 
 * Press ‘Scan’ on the machine. The scanning time depends on the resolution you choose. After scanning, the scanned image will pop up on the ‘plustek ePhoto’ app on the screen.
+<br><br> 
+
+ <div align="center">
+ <img src="scan.png" alt="config" width="700" al/>
+ </div>
+
+<br><br> 
+
+ <div align="center">
+ <img src="ephoto.png" alt="config" width="700" al/>
+ </div>
 <br><br>
 
 **After Scanning**
