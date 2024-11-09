@@ -86,7 +86,7 @@ Hardware Resolution: 1200dpi X 1200dpi
 <br><br> 
 
  <div align="center">
- <img src="scan.png" alt="config" width="700" al/>
+ <img src="scan.png" alt="config" width="300" al/>
  </div>
 
 <br><br> 
