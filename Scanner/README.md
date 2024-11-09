@@ -2,9 +2,12 @@
 <br><br> 
 
 [Equipment](#Equipment)
+
 [Configuration](#Configuration)
 
+[Operation Steps](#Operation-Steps)
 
+<br><br> 
 
  <div align="center">
  <img src="scanner1.jpg" alt="scanner" width="500" al/>
@@ -19,7 +22,7 @@ Scanner type: Flatbed Scanner
 Speed: Scan an A3 document (11.7 x 17) in 8 sec @ 300 dpi Color/Greyscale/B&W mode
 <br><br> 
 
-Scan modes
+* Scan modes
 
 Color: 48-bit input, 24-bit output
 
