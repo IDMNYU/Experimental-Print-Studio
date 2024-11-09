@@ -13,7 +13,8 @@
  <img src="scanner1.jpg" alt="scanner" width="500" al/>
  </div>
 
-* **Equipment**
+<br><br> 
+### **Equipment**
 
 We have a Plustek OpticSlim 1180 
 
@@ -33,9 +34,9 @@ B/W: 1-bit output
 Optical Resolution: 1200 dpi
 
 Hardware Resolution: 1200dpi X 1200dpi
+<br><br> 
 
-
-* **Configuration**
+### **Configuration**
 <br><br> 
 
  <div align="center">
@@ -44,7 +45,7 @@ Hardware Resolution: 1200dpi X 1200dpi
 
 <br><br> 
 
-* **Operation Steps**
+### **Operation Steps**
 
 1. Make sure power cable(black cable) is plugged in correctly
 
