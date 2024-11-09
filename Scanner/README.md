@@ -7,6 +7,8 @@
 
 [Basic Operation Steps](#Basic-Operation-Steps)
 
+[Troubleshooting](#Troubleshooting)
+
 <br><br> 
 
  <div align="center">
