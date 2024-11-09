@@ -12,6 +12,10 @@
  <div align="center">
  <img src="scanner1.jpg" alt="scanner" width="500" al/>
  </div>
+ 
+  <div align="center">
+ <img src="scanner2.jpg" alt="scanner" width="500" al/>
+ </div>
 
 <br><br> 
 ### **Equipment**
@@ -57,3 +61,12 @@ Hardware Resolution: 1200dpi X 1200dpi
 
 5. Close the cover 
 
+<br><br> 
+
+### **Troubleshooting**
+
+* Make sure both cables are properly connected in the correct orientation
+
+* Make sure the Scanner is powered on.
+
+* Make sure you press ‘Scan’ and hold down the button for more than a second.
