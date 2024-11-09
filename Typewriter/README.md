@@ -4,7 +4,12 @@ We have a 1957 Hermes Rocket #5572854, which was often advertised as the worldâ€
 
 <br><br>
  <div align="center">
- <img src="typewriter.jpg" alt="Black" width="700" al/>
+ <img src="typewriter.jpg" alt="typewriter" width="600" al/>
+ </div>
+
+
+ <div align="center">
+ <img src="typeface.png" alt="typeface" width="600" al/>
  </div>
 
 <br><br>
