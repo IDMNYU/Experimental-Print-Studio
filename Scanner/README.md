@@ -40,12 +40,31 @@ Optical Resolution: 1200 dpi
 Hardware Resolution: 1200dpi X 1200dpi
 <br><br> 
 
-### **Configuration**
+### **Hardware Configuration**
 <br><br> 
 
  <div align="center">
  <img src="config.png" alt="config" width="700" al/>
  </div>
+
+<br><br> 
+
+### **Software Configuration**
+
+1. Click ‘OpticSlim 1180’ app on the left side of the screen (orange color icon)
+
+2. You can change the resolution and other settings like scan mode, page size, and etc. on the screen above 
+
+3. Press ‘Scan’ on the machine. The scanning time depends on the resolution you choose. After scanning, the scanned image will pop up on the ‘plustek ePhoto’ app on the screen.
+<br><br>
+**After Scanning**
+
+1. Open Finder, go to Documents, and select folder named “MacAction”
+
+2. The file name will be the date in time of creation in default
+
+3. For example, if you scanned it on September 30 2024, the file name would start with “2024-09-30-16” followed by the time it was scanned
+
 
 <br><br> 
 
