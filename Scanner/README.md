@@ -66,12 +66,19 @@ Hardware Resolution: 1200dpi X 1200dpi
 
 ### **Software Configuration**
 
-1. Click ‘OpticSlim 1180’ app on the left side of the screen (orange color icon)
+* Click ‘OpticSlim 1180’ app on the left side of the screen (orange color icon)
 
-2. You can change the resolution and other settings like scan mode, page size, and etc. on the screen above 
+<br><br> 
+  <div align="center">
+ <img src="parameter.png" alt="scanner" width="500" al/>
+ </div>
+<br><br> 
 
-3. Press ‘Scan’ on the machine. The scanning time depends on the resolution you choose. After scanning, the scanned image will pop up on the ‘plustek ePhoto’ app on the screen.
+* You can change the resolution and other settings like scan mode, page size, and etc. on the screen above 
+
+* Press ‘Scan’ on the machine. The scanning time depends on the resolution you choose. After scanning, the scanned image will pop up on the ‘plustek ePhoto’ app on the screen.
 <br><br>
+
 **After Scanning**
 
 1. Open Finder, go to Documents, and select folder named “MacAction”
