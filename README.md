@@ -2,7 +2,7 @@
 
 Welcome to the IDM Experimental Print Studio!
 
-*Description (to be polished)*
+The Experimental Print Studio explores the intersection of code and paper-based creative outcomes. We are a space for experimenting with new kinds of drawing, computational approaches in graphic art and design, publishing and zine making. We maintain a risograph printer and a number of paper plotters and support the development of creative coding libraries for printing and drawing such as the [p5.riso javascript library](https://antiboredom.github.io/p5.riso/) and a new [toolkit](./Plotter/README.md) for using plotters with P5.
 
 ### Lab hours
 
@@ -21,6 +21,15 @@ To book [lab hours or training](https://calendar.google.com/calendar/u/0/appoint
 ### Location
 
 The Studio is located in room 351 on the 3rd floor of 370 Jay Street
+
+### Staff and Faculty
+
+Tega Brain
+
+Elton Kwok
+
+Craig Fahner
+
 
 ### Contact
 
