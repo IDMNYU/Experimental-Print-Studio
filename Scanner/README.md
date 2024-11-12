@@ -3,7 +3,7 @@
 
 [Equipment](#Equipment)
 
-[Configuration](#Configuration)
+[Configuration](#Hardware-Configuration)
 
 [Basic Operation Steps](#Basic-Operation-Steps)
 
