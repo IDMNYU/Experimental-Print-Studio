@@ -1,6 +1,6 @@
 # Typewriter
 
-We have a 1957 Hermes Rocket #5572854, which was often advertised as the world’s lightest portable typewriter. 
+We have a 1957 Hermes Rocket #5572854, one of the world’s lightest portable typewriters. 
 
 <br><br>
  <div align="center">
