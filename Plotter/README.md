@@ -24,7 +24,11 @@
 
 ### Overview
 
-(picture) 
+<br><br>
+<div align="center">
+ <img src="axidraw.jpg" alt="axidraw" width="600" al/>
+ </div>
+<br><br>
 
 A plotter is a machine that produces vector graphics drawings. Plotters draw lines on paper using a pen, or in some applications, use a knife to cut a material like vinyl or leather.
 
