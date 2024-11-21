@@ -41,15 +41,15 @@ eltonkwok@nyu.edu
 
 This repository contains information on how to use, maintain and troubleshoot the following lab equipment.
 
-[Riso](./Riso/README.md)
+[Risograph](./Riso/README.md)
 
 [Plotter](./Plotter/README.md)
 
 [Scanner](./Scanner/README.md)
 
-[Typewriter](./Typewriter/README.md)
+[Stack Paper Cutter](./Cutter/README.md)
 
-[Paper Cutter](./Cutter/README.md)
+[Typewriter](./Typewriter/README.md)
 
 [General Zine Making Equipment](./General_Zine_Making_Equipment/README.md)
 
