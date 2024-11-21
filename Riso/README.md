@@ -143,9 +143,8 @@ The Riso can print on the custom paper sizes below.
 
 Generally, any stationary or arts supply store will carry paper types in bulk. Here are some nearby stores for paper options: [Artist & Craftsman Supply](https://artistcraftsman.com/search.php?search_query=paper), [Blick](https://www.dickblick.com/stores/new-york/brooklyn-flatbush/), [Michaels](https://locations.michaels.com/ny/brooklyn/1276/), and [Paper Source](https://www.papersource.com).  
 
-Unsealed/uncoated papers must be used as the paper needs to be able to absorb the ink.
-Some examples of good paper types are: vellum, offset, and Hi-Bulk. Newsprints, kraft, and construction papers
-Riso Inks may smudge after the prints have dried (technically, the ink never really sets).  
+Unsealed/uncoated papers must be used as the paper needs to be able to absorb the ink. Gloss papers will not work as the ink cannot be adquately absorbed. Some examples of good paper types are: vellum, offset, and Hi-Bulk. Newsprints, kraft, and construction papers. Remember max paper size is tabloid.
+Riso Inks may smudge after the prints have dried (technically, the ink never really sets). Smudges can be removed with a paper eraser.
 For more detailed information on paper types for Riso click [here](https://www.stencil.wiki/paper-choosing-ideal-stocks-riso).
 
 ---
