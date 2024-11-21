@@ -39,6 +39,8 @@ eltonkwok@nyu.edu
 
 ## Links
 
+This repository contains information on how to use, maintain and troubleshoot the following lab equipment.
+
 [Riso](./Riso/README.md)
 
 [Plotter](./Plotter/README.md)
