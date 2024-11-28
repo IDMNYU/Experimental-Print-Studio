@@ -4,6 +4,14 @@ Welcome to the IDM Experimental Print Studio!
 
 The Experimental Print Studio explores the intersection of code and paper-based creative outcomes. We are a space for experimenting with new kinds of drawing, computational approaches in graphic art and design, publishing and zine making. We maintain a risograph printer and a number of paper plotters and support the development of creative coding libraries for printing and drawing such as the [p5.riso javascript library](https://antiboredom.github.io/p5.riso/) and a new [toolkit](./Plotter/README.md) for using plotters with P5.
 
+<br></br>
+ <div align="center">
+ <img src="banner.png" alt="chart" width="600" al/>
+ </div>
+
+<br></br>
+
+
 ### Lab hours
 
 Procedures for booking training 
