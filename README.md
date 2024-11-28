@@ -6,7 +6,7 @@ The Experimental Print Studio explores the intersection of code and paper-based 
 
 <br></br>
  <div align="center">
- <img src="banner.png" alt="chart" width="600" al/>
+ <img src="banner.png" alt="chart" width="800" al/>
  </div>
 
 <br></br>
