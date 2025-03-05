@@ -1,5 +1,5 @@
 # A Guide to Riso Printing
-<br><br> 
+<br><br>
 
 
 [What is Risograph](#What-is-Risograph)
@@ -22,14 +22,14 @@
 
 
 
-<br><br> 
-<br><br> 
+<br><br>
+<br><br>
 
 ### What is Risograph
 
-The Risograph is a stencil duplicator. Think of it as a cross between screen printing and photocopying. The RISO prints one color at a time in bright, vibrant colors. It is ideal for posters, graphic prints, zines, comics, and other graphic arts. 
-The RISO in the lab is a single drum, only printing one color at a time. To get a sense of how the RISO works watch this [video](https://youtu.be/ofIh4EtGVno?si=sjgOvS4qsWB36E5z). 
-<br><br> 
+The Risograph is a stencil duplicator. Think of it as a cross between screen printing and photocopying. The RISO prints one color at a time in bright, vibrant colors. It is ideal for posters, graphic prints, zines, comics, and other graphic arts.
+The RISO in the lab is a single drum, only printing one color at a time. To get a sense of how the RISO works watch this [video](https://youtu.be/ofIh4EtGVno?si=sjgOvS4qsWB36E5z).
+<br><br>
 ### Equipment
 
 Meet Frida, the IDM Print Lab’s Risograph!
@@ -41,44 +41,44 @@ Meet Frida, the IDM Print Lab’s Risograph!
 
 **Machine**
 
-It is a Riso SF 9450 printer. The manual for this machine is available [here](https://www.manualslib.com/products/Riso-Sf-9450-8854119.html). 
+It is a Riso SF 9450 printer. The manual for this machine is available [here](https://www.manualslib.com/products/Riso-Sf-9450-8854119.html).
 
 **Ink Color**
 
 Currently we have seven different colors.
 
- i. Black 
- 
+ i. Black
+
  <div align="center">
  <img src="img/black.png" alt="Black" width="700" al/>
  </div>
- 
- ii. Blue 
+
+ ii. Blue
 
  <div align="center">
  <img src="img/blue.png" alt="Blue " width="700" al/>
  </div>
- 
- iii. Green 
- 
+
+ iii. Green
+
   <div align="center">
  <img src="img/green.png" alt="Green " width="700" al/>
  </div>
- 
- iv. Yellow 
+
+ iv. Yellow
 
  <div align="center">
  <img src="img/yellow.png" alt="Yellow " width="700" al/>
  </div>
- 
- v. Fluorescent Pink 
+
+ v. Fluorescent Pink
 
  <div align="center">
  <img src="img/fluorescent-pink.png" alt="pink" width="700" al/>
  </div>
- 
- vi. Fluorescent Orange 
- 
+
+ vi. Fluorescent Orange
+
  <div align="center">
  <img src="img/fluorescent-orange.png" alt="orange" width="700" al/>
  </div>
@@ -88,9 +88,9 @@ Currently we have seven different colors.
  <div align="center">
  <img src="img/red.png" alt="red" width="700" al/>
  </div>
-  
-<br><br>   
-  
+
+<br><br>
+
 color charts
 
  <div align="center">
@@ -124,14 +124,14 @@ The maximum paper size the printer can print is tabloid (11″ x 17″). The pri
 
 This means the maximum printable area is approximately 10.5″ x 16.5″ on a tabloid size sheet. Trying to print outside of printable areas will lead to paper jams and unsuccessful prints.
 
-As a rule of thumb, include a margin of 0.5 inch to the image size for cutting. For letter, change image size to 8 x 10.5 in.  For tabloid, change image size to 10.5 x 16.5 in. 
+As a rule of thumb, include a margin of 0.5 inch to the image size for cutting. For letter, change image size to 8 x 10.5 in.  For tabloid, change image size to 10.5 x 16.5 in.
 
-The Riso can print on the custom paper sizes below. 
-<br><br>  
+The Riso can print on the custom paper sizes below.
+<br><br>
  <div align="center">
  <img src="img/in_table.png" alt="paper_size_inches" width="500" al/>
  </div>
- 
+
   <div align="center">
  <img src="img/mm_table.png" alt="paper_size_mm" width="500" al/>
  </div>
@@ -141,7 +141,7 @@ The Riso can print on the custom paper sizes below.
 
 ### Paper Purchasing
 
-Generally, any stationary or arts supply store will carry paper types in bulk. Here are some nearby stores for paper options: [Artist & Craftsman Supply](https://artistcraftsman.com/search.php?search_query=paper), [Blick](https://www.dickblick.com/stores/new-york/brooklyn-flatbush/), [Michaels](https://locations.michaels.com/ny/brooklyn/1276/), and [Paper Source](https://www.papersource.com).  
+Generally, any stationary or arts supply store will carry paper types in bulk. Here are some nearby stores for paper options: [Artist & Craftsman Supply](https://artistcraftsman.com/search.php?search_query=paper), [Blick](https://www.dickblick.com/stores/new-york/brooklyn-flatbush/), [Michaels](https://locations.michaels.com/ny/brooklyn/1276/), and [Paper Source](https://www.papersource.com).
 
 Unsealed/uncoated papers must be used as the paper needs to be able to absorb the ink. Gloss papers will not work as the ink cannot be adquately absorbed. Some examples of good paper types are: vellum, offset, and Hi-Bulk. Newsprints, kraft, and construction papers. Remember max paper size is tabloid.
 Riso Inks may smudge after the prints have dried (technically, the ink never really sets). Smudges can be removed with a paper eraser.
@@ -162,15 +162,15 @@ Make sure the blue light for the “Print Cylinder Release Button” is on. If n
  <div align="center">
   <img src="img/turnon-1.png" alt="turn-on" width="400" al/>
  </div>
- 
+
  <div align="center">
   <img src="img/drum.png" alt="drum" width="500" al/>
  </div>
- 
+
 <div align="center">
  <img src="img/bluelight.png" alt="drum" width="400" al/>
 </div>
- 
+
 * Pull the blue handle of the ink drum
 * Hold ink drum by blue parts, place carefully place it on the floor or table
 <br><br>
@@ -187,7 +187,7 @@ Make sure the blue light for the “Print Cylinder Release Button” is on. If n
 [p5 Riso](https://antiboredom.github.io/p5.riso/)
 
 
-p5.riso.js is a p5 library for riso printing. It means you can use p5 to create graphics and prepare the color layers for printing. p5.riso object extends the p5 graphics object so that all the graphics functions can be used from the library. 
+p5.riso.js is a p5 library for riso printing. It means you can use p5 to create graphics and prepare the color layers for printing. p5.riso object extends the p5 graphics object so that all the graphics functions can be used from the library.
 
 See [this](https://github.com/antiboredom/p5.riso/blob/master/tutorials/getting-started.md) getting started tutorial and the full example [code](https://editor.p5js.org/brain/sketches/GpuJH1Zur) here.
 
@@ -204,7 +204,7 @@ See the [reference](https://antiboredom.github.io/p5.riso/#ref) page and [exampl
 
 * Paper jam
 
-The RISO can't print 100% ink density across 100% of the paper. Large areas of 100% ink density can cause jams (surface area over 40% of the paper at 100% in density will jam). 
+The RISO can't print 100% ink density across 100% of the paper. Large areas of 100% ink density can cause jams (surface area over 40% of the paper at 100% in density will jam).
 To prevent jamming, it's best to design with your darkest color at 85% opacity.
 
 * Paper feed adjustment dial
@@ -226,7 +226,7 @@ When multiple paper are fed, turn the dial(2) clockwise
 <br><br>
 * Roller smudges
 <br><br>
-Print light colors first to reduce smudges. If you don’t let your prints dry, when you refeed the paper through ink will stick to the rollers. Let your prints dry for 10 minutes before each new color. 
+Print light colors first to reduce smudges. If you don’t let your prints dry, when you refeed the paper through ink will stick to the rollers. Let your prints dry for 10 minutes before each new color.
 
 To clean the rollers, lower the paper tray, use a wet wipe and clean the two rubber rollers by rotating the wheel and cleaning while you go. Dry with a paper towel and try again. This mark can also be reduced by printing 10 or more prints. You can also clean it with a pencil eraser.
 <br><br>
@@ -236,7 +236,7 @@ To clean the rollers, lower the paper tray, use a wet wipe and clean the two rub
 <br><br>
 * Registration errors
 <br><br>
-Registration errors are when two or more color layers don't perfectly line up. They can happen in both vertical and horizontal directions. See the images below. 
+Registration errors are when two or more color layers don't perfectly line up. They can happen in both vertical and horizontal directions. See the images below.
 
 Vertical and horizontal registration errors between the blue and orange layers.
 To move the blue layer to the left, adjust the plate to the right by turning the blue wheel backward as shown below. This is because the paper's path is relative to the ink screen as it passes under the screen.
@@ -281,6 +281,18 @@ See the first minute of this [video](https://youtu.be/P1xGhdyRiG0?si=_P09cxBmMjo
 See the first minute of this [video](https://youtu.be/P1xGhdyRiG0?si=_P09cxBmMjojH8lz)
 
 
+### Workshop
 
+workshop signup link:
 
+doc [link](https://docs.google.com/document/d/1Tp7_UvsXTDemmHoTNZ6bK4TqRhmo-qPB3lplZLxbt6A/edit?tab=t.0)
 
+* Riso + Photoshop
+
+This workshop is about color separation in photoshop. Bring a colored  photograph to the workshop, and we will process the image, separating it into a two color riso print.
+
+* Spectrolite
+
+Spectrolite is a unique color tool designed for Risograph printers. This workshop will introduce the use of Spectrolite to enhance the Riso printing experience. Spectrolite helps preview color blends and gradients, allowing for more accurate and vibrant color choices. By experimenting with different color combinations, you’ll gain a deeper understanding of how Riso’s distinctive printing process interacts with color layers. Join us to explore the creative potential of Spectrolite and elevate your Riso prints!
+
+* p5riso
