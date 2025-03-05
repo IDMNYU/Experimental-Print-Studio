@@ -20,6 +20,8 @@
 
 [Troubleshooting](#Troubleshooting)
 
+[Workshop](#Workshop)
+
 
 
 <br><br>
@@ -280,6 +282,8 @@ See the first minute of this [video](https://youtu.be/P1xGhdyRiG0?si=_P09cxBmMjo
 
 See the first minute of this [video](https://youtu.be/P1xGhdyRiG0?si=_P09cxBmMjojH8lz)
 
+<br><br>
+---
 
 ### Workshop
 
