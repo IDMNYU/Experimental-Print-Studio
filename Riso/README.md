@@ -289,7 +289,7 @@ See the first minute of this [video](https://youtu.be/P1xGhdyRiG0?si=_P09cxBmMjo
 
 workshop signup link:
 
-doc [link](https://docs.google.com/document/d/1Tp7_UvsXTDemmHoTNZ6bK4TqRhmo-qPB3lplZLxbt6A/edit?tab=t.0)
+workshop [plan](https://docs.google.com/document/d/1Tp7_UvsXTDemmHoTNZ6bK4TqRhmo-qPB3lplZLxbt6A/edit?tab=t.0)
 
 * Riso + Photoshop
 
@@ -297,6 +297,7 @@ This workshop is about color separation in photoshop. Bring a colored  photograp
 
 * Spectrolite
 
-Spectrolite is a unique color tool designed for Risograph printers. This workshop will introduce the use of Spectrolite to enhance the Riso printing experience. Spectrolite helps preview color blends and gradients, allowing for more accurate and vibrant color choices. By experimenting with different color combinations, you’ll gain a deeper understanding of how Riso’s distinctive printing process interacts with color layers. Join us to explore the creative potential of Spectrolite and elevate your Riso prints!
+Spectrolite is a unique color tool designed for Risograph printers.
+This workshop will introduce the use of Spectrolite to enhance the Riso printing experience. Spectrolite helps preview color blends and gradients, allowing for more accurate and vibrant color choices. By experimenting with different color combinations, you’ll gain a deeper understanding of how Riso’s distinctive printing process interacts with color layers. Join us to explore the creative potential of Spectrolite and elevate your Riso prints!
 
 * p5riso
